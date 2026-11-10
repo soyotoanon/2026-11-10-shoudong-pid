@@ -1,0 +1,4 @@
+﻿frequency_mhz,amplitude_mvpp,output_power_mw,power_std_mw,target_power_mw,tolerance_mw,status,trials,target_mode,wavelength_nm,generator,meter_model,meter_serial,simulation,reason
+120,300,25,0,25,1,ok,2,输出功率 (mW),400,TEST-GENERATOR,TEST-METER,TEST-ONLY,False,"Synthetic unit-test fixture, not experimental data"
+121,305,25,0,25,1,ok,2,输出功率 (mW),400,TEST-GENERATOR,TEST-METER,TEST-ONLY,False,"Synthetic unit-test fixture, not experimental data"
+122,310,25,0,25,1,ok,2,输出功率 (mW),400,TEST-GENERATOR,TEST-METER,TEST-ONLY,False,"Synthetic unit-test fixture, not experimental data"

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "csv": "synthetic_scan.csv",
+  "settings": {
+    "resource": "",
+    "serial": "TEST-ONLY",
+    "wavelength": "400",
+    "mode": "输出功率 (mW)",
+    "target": "25",
+    "tolerance": "1",
+    "incident": "",
+    "start": "120",
+    "stop": "122",
+    "step": "1",
+    "amp_min": "300",
+    "amp_max": "500",
+    "amp_step": "10",
+    "search_mode": "自适应 + 区间二分",
+    "max_step": "15",
+    "power_stop": "35"
+  },
+  "state": "completed",
+  "sources": [],
+  "error": null
+}
